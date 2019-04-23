@@ -81,5 +81,6 @@ ERROR: Invalid input ! Please use below options:
    node liri.js do-what-it-says 
 
 ```
-
+## Author
+``` Vinod Ramadasan ```
 
