@@ -1,0 +1,18 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Liri Bot for getting Spotify and OMDB Details",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "Vinod Ramadasan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bandsintown-rest": "^2.0.0",
+    "dotenv": "^7.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
